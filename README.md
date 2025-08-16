@@ -1,4 +1,4 @@
 # Activity1Repo
 # Cruz, Maximillian Reth
-# Opo
-# Opo
+# bool nakakasunod = true
+# Opo madali po
